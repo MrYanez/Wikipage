@@ -1,2 +1,2 @@
-# wiki-page-team-wroup
+# wiki_group
 This is my wiki page
